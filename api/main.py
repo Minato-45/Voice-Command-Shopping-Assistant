@@ -1,13 +1,6 @@
-{
-  "dependencies": {
-    "date-fns": "^3.6.0",
-    "react-day-picker": "8.10.1"
-  }
-}
 # Import necessary libraries
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-import date_fns
 
 # Initialize the Flask application
 app = Flask(__name__)
