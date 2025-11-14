@@ -42,10 +42,6 @@ Voice Command Shopping Assistant is a modern, voice-enabled smart shopping list 
 - Python (v3.8 or later)
 - npm (or yarn/pnpm)
 
-### Clone the Repository
-
-git clone [https://github.com/kanan-pandey1612/Voice-Command-Shopping-Assistant.git](https://github.com/kanan-pandey1612/Voice-Command-Shopping-Assistant.git)
-
 ### Setup and Run
 
 Install Frontend Dependencies:
